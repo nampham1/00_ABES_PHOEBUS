@@ -1,0 +1,7 @@
+history
+config/credentials.json
+data/input/*
+data/output/*
+data/staging
+.DS_Store
+**/fr-ner-wikiner-0.4.pt
